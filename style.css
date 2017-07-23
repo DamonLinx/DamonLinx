@@ -1,0 +1,100 @@
+html, body {
+  box-sizing: border-box;
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+.background {
+  background-image: url("https://www.guitarexperience.co.uk/media/images/default/Floorboard_Background.jpg");
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 1050px;
+  margin-top: -75px;
+  background-size: contain;
+  position: relative;
+}
+.button-box {
+  margin-right: 50px;
+}
+.button-size{
+  font-size: 30px;
+  color: #0033ff;
+}
+.button-pos{
+  margin-top: 100px;
+  border: 5px solid black;
+  float: right;
+}
+.button-pos2 {
+  margin-top: 100px;
+  border: 5px solid black;
+  position: absolute;
+  margin-left: 700px;
+}
+.header-text{
+    font-family: impact;
+    font-size: 75px;
+    color: white;
+    text-align: center;
+    padding-top: 300px;
+}
+  .p1{
+    text-align: center;
+    color: #f8f8f8;
+    font-size: 40px;
+  }
+  .a1-color {
+    color: #00ccff;
+  }
+.background2 {
+  background-image: url("http://3.bp.blogspot.com/-tJU0LDSKMIE/UtlWV9EwhBI/AAAAAAAAF3Y/WTNhbcVjZeI/s1600/orange-web-background.jpg");
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 1050px;
+  margin-top: -35px;
+  background-size: contain;
+  position: relative;
+}
+.u-c{
+  width: 300px;
+  float: left;
+  padding: 25px 25px 25px 25px;
+  margin-left: 25px;
+  margin-top: 200px;
+  border: 10px solid black;
+}
+.background3 {
+  background-image:url("http://systhread.net/texts/200511gimp-img/plasma_ab_s.jpg");
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 1050px;
+  margin-top: -75px;
+  background-size: cover;
+  position: relative;
+}
+.p3 {
+  padding-left: 50px;
+  color: white;
+  font-size: 40px;
+  padding-top: 75px;
+}
+.p4 {
+  padding-left: 150px;
+  color: white;
+  font-size: 30px;
+}
+.p5{
+  padding-top: 400px;
+  color: whitesmoke;
+  font-size: 25px;
+  text-align: center;
+}
+.final-pic {
+  transform: rotate(9deg);
+  margin-left: 900px;
+  margin-top: -500px;
+
+  position: absolute;
+}
